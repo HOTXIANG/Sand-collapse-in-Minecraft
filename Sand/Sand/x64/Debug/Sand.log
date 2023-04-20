@@ -1,0 +1,3 @@
+﻿  Sand.cpp
+C:\Users\17931\source\repos\Sand\Sand\Sand.cpp(63,21): warning C4101: “j”: 未引用的局部变量
+  Sand.vcxproj -> C:\Users\17931\source\repos\Sand\x64\Debug\Sand.exe
